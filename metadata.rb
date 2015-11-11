@@ -1,0 +1,7 @@
+name 'chef-sleep'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures chef-sleep'
+long_description 'Installs/Configures chef-sleep'
+version '0.1.0'
